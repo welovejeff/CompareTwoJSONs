@@ -1,0 +1,7 @@
+{
+    "name": "John",
+    "age": 35, 
+    "city": "Boston",
+    "gender":"male",
+    "hobbies":["reading","traveling"]
+}
