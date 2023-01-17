@@ -1,7 +1,82 @@
 {
-    "name": "John",
-    "age": 35, 
-    "city": "Boston",
-    "gender":"male",
-    "hobbies":["reading","traveling"]
-}
+  "users": [
+    {
+      "name": "John Smith",
+      "age": 30,
+      "gender": "male",
+      "email": "johnsmith@example.com",
+      "phone": "555-555-5555",
+      "address": "123 Main St, Anytown USA 12345"
+    },
+    {
+      "name": "Jane Doe",
+      "age": 25,
+      "gender": "female",
+      "email": "janedoe@example.com",
+      "phone": "555-555-5555",
+      "address": "456 Park Ave, Anytown USA 98765"
+    },
+    {
+      "name": "Robert Smith",
+      "age": 35,
+      "gender": "male",
+      "email": "robertsmith@example.com",
+      "phone": "555-555-5555",
+      "address": "789 Elm St, Anytown USA 12345"
+    },
+    {
+      "name": "Emily Johnson",
+      "age": 22,
+      "gender": "female",
+      "email": "emilyjohnson@example.com",
+      "phone": "555-555-5555",
+      "address": "321 Pine St, Anytown USA 54321"
+    },
+    {
+      "name": "Michael Brown",
+      "age": 40,
+      "gender": "male",
+      "email": "michaelbrown@example.com",
+      "phone": "555-555-5555",
+      "address": "147 Oak St, Anytown USA 12345"
+    },
+    {
+      "name": "Sarah Thompson",
+      "age": 29,
+      "gender": "female",
+      "email": "sarahthompson@example.com",
+      "phone": "555-555-5555",
+      "address": "753 Maple St, Anytown USA 12345"
+    },
+    {
+      "name": "David Wilson",
+      "age": 32,
+      "gender": "male",
+      "email": "davidwilson@example.com",
+      "phone": "555-555-5555",
+      "address": "965 Birch St, Anytown USA 12345"
+    },
+    {
+      "name": "Jessica Davis",
+      "age": 24,
+      "gender": "female",
+      "email": "jessicadavis@example.com",
+      "phone": "555-555-5555",
+      "address": "111 Cherry St, Anytown USA 12345"
+    },
+    {
+      "name": "Joshua Moore",
+      "age": 27,
+      "gender": "male",
+      "email": "joshuamoore@example.com",
+      "phone": "555-555-5555",
+      "address": "222 Apple St, Anytown USA 12345"
+    },
+    {
+      "name": "Amanda Taylor",
+      "age": 31,
+      "gender": "female",
+      "email": "amandataylor@example.com",
+      "phone": "555-555-5555",
+      "address": "333 Orange St"
+    }
