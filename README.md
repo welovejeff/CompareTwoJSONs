@@ -28,5 +28,5 @@ This script is a basic example and may not handle all cases and edge scenarios. 
 
 1. Make sure you have python installed. You can check by running `python --version` in your command line.
 2. Make sure you have the necessary modules installed. The script uses the `json` module, which should come with a standard python installation.
-3. Run the script by navigating to the directory where the script is located and run the command `python Compare_json.py file1.json file2.json output_file.json`
+3. Run the script by navigating to the directory where the script is located and run the command `python compare_json.py file1.json file2.json output_file.json`
 4. The output_file will be created in the same directory as the script with the differences between the two JSONs commented out.
